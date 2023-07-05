@@ -33,5 +33,4 @@ public class AnimalExtensionTest {
         assertThat(animal.getAge()).isEqualTo(customAnimal.getAge());
     }
 
-
 }
